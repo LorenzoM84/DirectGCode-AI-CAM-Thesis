@@ -11,8 +11,7 @@ The repository does not contain proprietary source code, internal algorithms, fu
 | File | Description |
 | --- | --- |
 | [DirectGCode_Tesi_Tecnica_Indipendente.pdf](docs/DirectGCode_Tesi_Tecnica_Indipendente.pdf) | Full public thesis in Italian. |
-| [Executive_Edition.pdf](docs/Executive_Edition.pdf) | Concise executive edition in English for quick technical review. |
-| [Executive_Edition_IT.pdf](docs/Executive_Edition_IT.pdf) | Italian version of the executive edition. |
+| [Executive_Edition.pdf](docs/Executive_Edition.pdf) | Executive edition in Italian for quick technical review. |
 
 ## Project Description
 
