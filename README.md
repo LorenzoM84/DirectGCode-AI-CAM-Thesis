@@ -11,7 +11,8 @@ The repository does not contain proprietary source code, internal algorithms, fu
 | File | Description |
 | --- | --- |
 | [DirectGCode_Tesi_Tecnica_Indipendente.pdf](docs/DirectGCode_Tesi_Tecnica_Indipendente.pdf) | Full public thesis in Italian. |
-| [Executive_Edition.pdf](docs/Executive_Edition.pdf) | Concise executive edition for quick technical review. |
+| [Executive_Edition.pdf](docs/Executive_Edition.pdf) | Concise executive edition in English for quick technical review. |
+| [Executive_Edition_IT.pdf](docs/Executive_Edition_IT.pdf) | Italian version of the executive edition. |
 
 ## Project Description
 
@@ -114,9 +115,7 @@ Future development directions described in the thesis include:
 
 ## Disclaimer
 
-- This is not a university thesis.
-- This repository does not constitute or claim an academic degree.
-- The work represents independent technical research by Lorenzo Marsico.
+- This repository presents independent technical research by Lorenzo Marsico.
 - No proprietary source code, internal algorithms, full datasets, complete knowledge packs, customer data, or confidential project information are disclosed.
 - The included material is a public, professional, non-commercial documentation package.
 
