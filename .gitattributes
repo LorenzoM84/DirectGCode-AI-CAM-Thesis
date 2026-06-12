@@ -1,0 +1,6 @@
+*.pdf binary
+*.png binary
+*.md text eol=lf
+LICENSE text eol=lf
+.gitattributes text eol=lf
+assets/.gitkeep text eol=lf
